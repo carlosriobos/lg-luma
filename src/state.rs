@@ -1176,7 +1176,8 @@ impl State {
                         }
                     }
                     Some(Subpage::Language) => {
-                        self.preferences.language = Language::ALL[index.min(2)];
+                        self.preferences.language =
+                            Language::ALL[index.min(Language::ALL.len() - 1)];
                         self.weather.cancel_search();
                     }
                     Some(Subpage::WeatherLocation) => return vec![],
