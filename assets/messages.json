@@ -209,14 +209,24 @@
     "es": "Un momento más.",
     "zh": "稍等片刻。"
   },
-  "morning": { "en": "Good morning.", "de": "Guten Morgen.", "es": "Buenos días.", "zh": "早上好。" },
+  "morning": {
+    "en": "Good morning.",
+    "de": "Guten Morgen.",
+    "es": "Buenos días.",
+    "zh": "早上好。"
+  },
   "afternoon": {
     "en": "Good afternoon.",
     "de": "Guten Tag.",
     "es": "Buenas tardes.",
     "zh": "下午好。"
   },
-  "evening": { "en": "Good evening.", "de": "Guten Abend.", "es": "Buenas noches.", "zh": "晚上好。" },
+  "evening": {
+    "en": "Good evening.",
+    "de": "Guten Abend.",
+    "es": "Buenas noches.",
+    "zh": "晚上好。"
+  },
   "aLittleHelp": {
     "en": "A little help from your TV.",
     "de": "Ein wenig Hilfe von deinem Fernseher.",
